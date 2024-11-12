@@ -1,3 +1,8 @@
 form {
   width: 100%;
 }
+
+.sort-btn {
+  display: inline-block;
+  margin-left: 15px;
+}
